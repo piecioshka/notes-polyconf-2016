@@ -31,8 +31,6 @@ Niestety, ale pewnie tego już się (chyba) nie dowiem.
 
 Prelegent polecał przeczytać: http://staltz.com/unidirectional-user-interface-architectures.html
 
----
-
 Najważniejszą zasadą w Elm-ie jest...
 
     Brak błędów podczas życia aplikacji
@@ -40,8 +38,6 @@ Najważniejszą zasadą w Elm-ie jest...
 czyli:
     
     No runtime errors
-
----
 
 Zasady:
 
@@ -111,6 +107,8 @@ fn();
 "SystemJS is a polyfill for full specification" tak powiedział prelegent.
 
 ---
+---
+---
 
 ## Dzień 2
 
@@ -169,7 +167,7 @@ system can handle more users, requests than application?
 * porównywanie dużych obiektów bardzo szybko, bo porównywane sa tylko hashe tych obiektów
 * create new data-structure: record
 
-### 5. "Getting your node.js app production ready" Zbyszek Tenerowicz
+### 5. "Getting your Node.js app production ready" Zbyszek Tenerowicz
 
 * Slajdy - http://naugtur.pl/pres3/node2prod/
 * Twitter - http://twitter.com/naugtur
@@ -234,7 +232,7 @@ blocked(function (ms) {
 
 #### memory increase
 
-* node.js will whoutsdown 1.5GB gets allocated
+* Node.js will whatsdown 1.5GB gets allocated
 * monitor process.memoryUsage.rss
 * watch for steady increase in memory use
 
@@ -246,7 +244,7 @@ blocked(function (ms) {
 
 #### more
 
-* getting and using heapdumps
+* getting and using heap dumps
 * error handler shared across the app
 * feature toggles
 * much more security tips
@@ -307,6 +305,8 @@ która chce skorzystać z danego zasobu.
 * Link do projektu na GitHubie - https://github.com/paypal/seifnode
 * Wprowadzenie do projektu z innej konferencji - https://www.oreilly.com/learning/introducing-the-seif-project
 
+---
+---
 ---
 
 ## Dzień 3
@@ -392,20 +392,20 @@ Ecta.Repo, Schema, Changesets, Query
 
 *LIGHTNING TALKS*
 
-## music
+#### music
 
 * overtone - https://github.com/overtone/overtone
 * shadertone - https://github.com/overtone/shadertone
 * clousure
 
-## git
+#### git
 
 ```bash
 git diff --compaction-heuristic # set as default
 git push --force-with-lease
 ```
 
-## keyboard
+#### keyboard
 
 * http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
 
@@ -416,7 +416,7 @@ git push --force-with-lease
 * http://twitter.com/jellea
 * http://github.com/jellea
 
-#### clojuresript
+#### ClojureScript
 
 * closure to js
 * source maps
@@ -430,9 +430,9 @@ git push --force-with-lease
 
 #### Landscape
 
-* natal - ambly (webdav)
+* natal - ambly (webdev)
 * re-natal (lein figwheel websocket)
-* boot-reac-native (boot-reload websocket)
+* boot-react-native (boot-reload websocket)
 * ktoa  (re-natal + webapp)
 * cljsrn-desktop  (ambly + os x app)
 
@@ -444,7 +444,7 @@ git push --force-with-lease
 
 #### Sky/CPU is the limit!
 
-* pick your weapon: om next, reagetnt
+* pick your weapon: om next, reagent
 
 #### Hiccup example
 
@@ -453,7 +453,7 @@ git push --force-with-lease
 * tools in xcode simulator
 * chrome debugger
 * source maps
-* closujescript repl
+* ClojureScript repl
 
 #### Testing
 
@@ -472,7 +472,7 @@ git push --force-with-lease
 
 * show example - bad composability
 * bas reusability
-* responsoveness
+* responsiveness
 * 4 vs 12k different screen sizes
 * I want BASS css utility based css!
 
@@ -517,7 +517,7 @@ http://iamfy.co
 
 #### OCaml
 
-* incredability  lightweight but thorough type system
+* incredibility  lightweight but thorough type system
 * figure out type of statement
 * statically compiled with predictable characteristics
 * compile to highly efficient js - use with React
