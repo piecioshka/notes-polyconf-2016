@@ -22,20 +22,21 @@ Wstydził się? Nie miał czym się pochwalić? Nie chciał być nachalny?
 
 ### 2. "Introducing clojure.spec" Arne Brasseur
 
-* :camera: Talk — https://www.youtube.com/watch?v=CVO0M8CTV78
-* Slajdy — http://arnebrasseur.net/talks/2016-clojure-spec/
+* :movie_camera: Talk — https://www.youtube.com/watch?v=CVO0M8CTV78
+* :page_with_curl: Slajdy — http://arnebrasseur.net/talks/2016-clojure-spec/
 
 ### 3. "Functional Thinking" Artur Czajka
 
-* :camera: Talk — https://www.youtube.com/watch?v=Nx9pEQng8H8
+* :movie_camera: Talk — https://www.youtube.com/watch?v=Nx9pEQng8H8
 
 ### 4. "Elm for JavaScript Developers" Jack Franklin
 
-* :camera: Talk — https://www.youtube.com/watch?v=tOkOmWgDLOM
-* Slajdy - https://speakerdeck.com/jackfranklin/polyconf-elm-for-js-developers
-* Dodatki - https://github.com/jackfranklin/elm-for-js-developers-talk/tree/polyconf
+* :movie_camera: Talk — https://www.youtube.com/watch?v=tOkOmWgDLOM
+* :page_with_curl: Slajdy - https://speakerdeck.com/jackfranklin/polyconf-elm-for-js-developers
 
 <details>
+
+Dodatki - https://github.com/jackfranklin/elm-for-js-developers-talk/tree/polyconf
 
 Prelegent polecał przeczytać: http://staltz.com/unidirectional-user-interface-architectures.html
 
@@ -66,14 +67,14 @@ Commands and (Signals =>) Subscriptions
 
 ### 5. "Lwan project: an experimental, scalable, high-performance HTTP server" Leandro Pereira
 
-* :camera: Talk — https://www.youtube.com/watch?v=cttY9FdCzUE
+* :movie_camera: Talk — https://www.youtube.com/watch?v=cttY9FdCzUE
 
 ### 6. "Dynamics of change: why reactivity matters" Andre Staltz
 
-* :camera: Talk — https://www.youtube.com/watch?v=v68ppDlvHqs
-* Prelegent — https://github.com/staltz
-* Prelegent — https://twitter.com/andrestaltz
-* Slajdy - https://speakerdeck.com/staltz/dynamics-of-change-why-reactivity-matters
+* :movie_camera: Talk — https://www.youtube.com/watch?v=v68ppDlvHqs
+* :page_with_curl: Slajdy - https://speakerdeck.com/staltz/dynamics-of-change-why-reactivity-matters
+* :postbox: Kontakt — https://github.com/staltz
+* :postbox: Kontakt — https://twitter.com/andrestaltz
 
 <details>
 
@@ -95,11 +96,11 @@ jestem w stanie powiedzieć, że była to najlepsza prelekcja dla mnie z kilku p
 
 ### 7. "Becoming a Polyglot - APIs in 4 Languages" Kirsten Hunter
 
-* :camera: Talk — https://www.youtube.com/watch?v=ZfqfLpV26yY
+* :movie_camera: Talk — https://www.youtube.com/watch?v=ZfqfLpV26yY
 
 ### 8. "Dynamic Linking in the Browser" Guy Bedford
 
-* :camera: Talk — https://www.youtube.com/watch?v=cRSBi1EAOCo
+* :movie_camera: Talk — https://www.youtube.com/watch?v=cRSBi1EAOCo
 
 <details>
 
@@ -125,7 +126,7 @@ jestem w stanie powiedzieć, że była to najlepsza prelekcja dla mnie z kilku p
 
 ### LIGHTNING TALKS :zap:
 
-* :camera: Talks — https://www.youtube.com/watch?v=de-EiEXo3tA
+* :movie_camera: Talks — https://www.youtube.com/watch?v=de-EiEXo3tA
 
 ---
 ---
@@ -135,17 +136,18 @@ jestem w stanie powiedzieć, że była to najlepsza prelekcja dla mnie z kilku p
 
 ### 1. "Oden - A Functional Programming Language for the Go Ecosystem" Oskar Wickström
 
-* :camera: Talk — https://www.youtube.com/watch?v=qRm_58RA9ns
+* :movie_camera: Talk — https://www.youtube.com/watch?v=qRm_58RA9ns
 
 ### 2. "Pick Your Battles" Zef Hemel
 
-* :camera: Talk — https://www.youtube.com/watch?v=J_44tCwpChY
-* Strona domowa - http://zef.me
-* Twitter - http://twitter.com/zef
-* Slajdy - https://speakerdeck.com/zef/pick-your-battles
-* Prelekcja w oparciu o artykuł - http://zef.me/blog/4235/pick-your-battles
+* :movie_camera: Talk — https://www.youtube.com/watch?v=J_44tCwpChY
+* :page_with_curl: Slajdy - https://speakerdeck.com/zef/pick-your-battles
+* Kontakt - http://zef.me
+* Kontakt - http://twitter.com/zef
 
 <details>
+
+Prelekcja w oparciu o artykuł - http://zef.me/blog/4235/pick-your-battles
 
 Wnioski:
 
@@ -156,12 +158,12 @@ Wnioski:
 
 ### 3. "Back to Basics: Discussing Prototypes with the Terminator" Christoph Gockel
 
-* :camera: Talk — https://www.youtube.com/watch?v=6rVfqhtWJ6g
+* :movie_camera: Talk — https://www.youtube.com/watch?v=6rVfqhtWJ6g
 
 ### 4. "Scaling React Applications" Max Stoiber
 
-* :camera: Talk — https://www.youtube.com/watch?v=iNNiqWZtUHg
-* Twitter - https://twitter.com/mxstbr
+* :movie_camera: Talk — https://www.youtube.com/watch?v=iNNiqWZtUHg
+* Kontakt - https://twitter.com/mxstbr
 
 <details>
 
@@ -200,10 +202,10 @@ Wnioski:
 
 ### 5. "Getting your Node.js app production ready" Zbyszek Tenerowicz
 
-* :camera: Talk — https://www.youtube.com/watch?v=hME4c8y_B-s
-* :camera: Talk — https://www.youtube.com/watch?v=orLYv91T5io
-* Slajdy - http://naugtur.pl/pres3/node2prod/
-* Prelegent - http://twitter.com/naugtur
+* :movie_camera: Talk — https://www.youtube.com/watch?v=hME4c8y_B-s
+* :movie_camera: Talk — https://www.youtube.com/watch?v=orLYv91T5io
+* :page_with_curl: Slajdy - http://naugtur.pl/pres3/node2prod/
+* Kontakt - http://twitter.com/naugtur
 
 <details>
 
@@ -290,33 +292,38 @@ blocked(function (ms) {
 
 ### 6. "OOP -> FP" Julia Gao
 
-* :camera: Talk — https://www.youtube.com/watch?v=R_TQtthAGQc
-* Slajdy - http://slides.com/ryoia/oop-to-fp
+* :movie_camera: Talk — https://www.youtube.com/watch?v=R_TQtthAGQc
+* :page_with_curl: Slajdy - http://slides.com/ryoia/oop-to-fp
 
 ### 7. "Owning Ownership: How Thinking About Ownership Prevents Bugs" Sean Griffin
 
-* :camera: Talk — https://www.youtube.com/watch?v=PBV6j2BhEGE
-* Twitter - http://twitter.com/sgrif
-* GitHub - http://github.com/sgrif
+* :movie_camera: Talk — https://www.youtube.com/watch?v=PBV6j2BhEGE
+* Kontakt - http://twitter.com/sgrif
+* Kontakt - http://github.com/sgrif
+
+<details>
+
 * Lib: Diesel - http://diesel.rs
 * Podcast - http://bikeshed.fm
+
+</details>
 
 ---
 
 ### LIGHTNING TALKS :zap:
 
-* :camera: Talks — https://www.youtube.com/watch?v=AbqByKfar8o
+* :movie_camera: Talks — https://www.youtube.com/watch?v=AbqByKfar8o
 
 ---
 
 ### 8. "The Linguistic Relativity of Programming Languages" Jenna Zeigen
 
-* :camera: Talk — https://www.youtube.com/watch?v=XV3vUZ9y8AU
+* :movie_camera: Talk — https://www.youtube.com/watch?v=XV3vUZ9y8AU
 
 ### 9. "Nim async voodoo" Andreas Rumpf
 
-* :camera: Talk — https://www.youtube.com/watch?v=hwArqelfBBY
-* Slajdy - https://github.com/araq/polyconf2016
+* :movie_camera: Talk — https://www.youtube.com/watch?v=hwArqelfBBY
+* :page_with_curl: Slajdy - https://github.com/araq/polyconf2016
 
 <details>
 
@@ -330,7 +337,7 @@ blocked(function (ms) {
 
 ### 10. "Why System Programming is for Everyone" Julia Evans
 
-* :camera: Talk — https://www.youtube.com/watch?v=HjASqh5z8ck
+* :movie_camera: Talk — https://www.youtube.com/watch?v=HjASqh5z8ck
 
 <details>
 
@@ -347,7 +354,7 @@ Prelegentka pokazała mnóstwo interesujących programów:
 
 ### 11. "The Seif Project" Douglas Crockford
 
-* :camera: Talk — https://www.youtube.com/watch?v=O9AwYiwIvXE
+* :movie_camera: Talk — https://www.youtube.com/watch?v=O9AwYiwIvXE
 
 <details>
 
@@ -371,8 +378,8 @@ która chce skorzystać z danego zasobu.
 
 ### 1. "Erlang in The Land of Lisp" Jan Stępień
 
-* :camera: Talk — https://www.youtube.com/watch?v=qVMKIKJrUd8
-* Twitter - http://twitter.com/janstepien
+* :movie_camera: Talk — https://www.youtube.com/watch?v=qVMKIKJrUd8
+* Kontakt - http://twitter.com/janstepien
 
 <details>
 
@@ -392,7 +399,7 @@ where processes dwell
 
 ### 2. "Exploring The Universal Library" Szymon Kaliski
 
-* :camera: Talk — https://www.youtube.com/watch?v=qByrsLPxjHs
+* :movie_camera: Talk — https://www.youtube.com/watch?v=qByrsLPxjHs
 
 <details>
 
@@ -404,7 +411,7 @@ where processes dwell
 
 ### 3. "Language-agnostic static analysis with abstract ASTs" Marcin Wyszyński
 
-* :camera: Talk — https://www.youtube.com/watch?v=0YHXFY_NSfA
+* :movie_camera: Talk — https://www.youtube.com/watch?v=0YHXFY_NSfA
 
 <details>
 
@@ -415,8 +422,8 @@ where processes dwell
 
 ### 4. "My adventure with Elm" Yan Cui
 
-* :camera: Talk — https://www.youtube.com/watch?v=28jCDXfZCgE
-* Prelegent — http://twitter.com/theburningmonk
+* :movie_camera: Talk — https://www.youtube.com/watch?v=28jCDXfZCgE
+* :postbox: Kontakt — http://twitter.com/theburningmonk
 
 <details>
 
@@ -428,15 +435,15 @@ where processes dwell
 
 ### 5. "Ecto vs. ActiveRecord: A Tale of Two ORMs" Brad Urani
 
-* :camera: Talk — https://www.youtube.com/watch?v=96YwY7Lld0Q
-* Prelegent — http://twitter.com/bradurani
+* :movie_camera: Talk — https://www.youtube.com/watch?v=96YwY7Lld0Q
+* :postbox: Kontakt — http://twitter.com/bradurani
 
 Ecta.Repo, Schema, Changesets, Query
 
 ### 6. "Datomic in production, 1 year in" Hans Hübner
 
-* :camera: Talk — https://www.youtube.com/watch?v=0y6QK813new
-* Prelegent — https://twitter.com/hanshuebner
+* :movie_camera: Talk — https://www.youtube.com/watch?v=0y6QK813new
+* :postbox: Kontakt — https://twitter.com/hanshuebner
 
 <details>
 
@@ -455,8 +462,8 @@ Ecta.Repo, Schema, Changesets, Query
 
 ### 7. "Kemal: Building Lightning Fast Web Applications with Simplicity" Serdar Dogruyol
 
-* :camera: Talk — https://www.youtube.com/watch?v=KJB-nAoRSr8
-* Prelegent — http://twitter.com/sdogruyol
+* :movie_camera: Talk — https://www.youtube.com/watch?v=KJB-nAoRSr8
+* :postbox: Kontakt — http://twitter.com/sdogruyol
 
 <details>
 
@@ -509,9 +516,9 @@ git push --force-with-lease
 
 ### 8. "Experience report: Clojure on iOS with React Native" Jelle Akkerman
 
-* :camera: Talk — https://www.youtube.com/watch?v=UHRITqJGadU
-* Prelegentka — http://twitter.com/jellea
-* Prelegentka — http://github.com/jellea
+* :movie_camera: Talk — https://www.youtube.com/watch?v=UHRITqJGadU
+* :postbox: Kontakt — http://twitter.com/jellea
+* :postbox: Kontakt — http://github.com/jellea
 
 <details>
 
@@ -602,9 +609,9 @@ http://iamfy.co
 
 ### 9. "From Unikernels to Databases to UIs: Truly full-stack apps in OCaml" Sean Grove
 
-* :camera: Talk — https://www.youtube.com/watch?v=F2dPXk__B6M
-* Prelegent — http://twitter.com/sgrove
-* Prelegent — http://github.com/sgrove
+* :movie_camera: Talk — https://www.youtube.com/watch?v=F2dPXk__B6M
+* :postbox: Kontakt — http://twitter.com/sgrove
+* :postbox: Kontakt — http://github.com/sgrove
 
 <details>
 
@@ -654,7 +661,7 @@ http://iamfy.co
 
 ### 10. "A brief history of the ML family" Rachel Reese
 
-* :camera: Talk — https://www.youtube.com/watch?v=cbDjpi727aY
+* :movie_camera: Talk — https://www.youtube.com/watch?v=cbDjpi727aY
 
 <details>
 
@@ -668,8 +675,8 @@ http://iamfy.co
 
 ### 11. "Knit, Chisel, Hack: Building Programs in Guile Scheme" Andy Wingo
 
-* :camera: Talk — https://www.youtube.com/watch?v=TVO8WXFYDIA
-* Prelegent — https://twitter.com/andywingo
+* :movie_camera: Talk — https://www.youtube.com/watch?v=TVO8WXFYDIA
+* :postbox: Kontakt — https://twitter.com/andywingo
 
 <details>
 
