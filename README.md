@@ -304,13 +304,9 @@ blocked(function (ms) {
 
 </details>
 
----
-
 ### LIGHTNING TALKS :zap:
 
 * :movie_camera: Talks — https://www.youtube.com/watch?v=AbqByKfar8o
-
----
 
 ### 8. "The Linguistic Relativity of Programming Languages" Jenna Zeigen
 
@@ -487,8 +483,6 @@ Ecta.Repo, Schema, Changesets, Query
 
 </details>
 
----
-
 ### LIGHTNING TALKS :zap:
 
 <details>
@@ -511,8 +505,6 @@ git push --force-with-lease
 * http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
 
 </details>
-
----
 
 ### 8. "Experience report: Clojure on iOS with React Native" Jelle Akkerman
 
