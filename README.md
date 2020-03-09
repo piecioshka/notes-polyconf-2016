@@ -2,11 +2,7 @@
 
 :book: Notes from conference: PolyConf 2016 — https://16.polyconf.com/
 
-> Początek wydarzenia: 2016-06-30<br/>
-> Koniec wydarzenia: 2016-07-02
-
-Informuję na starcie, że nie wszystkie prelekcje posiadają notatki,
-ze względu, że nie wszystkie mnie interesowały w takim samym stopniu.
+> Wydarzenia trwało od 2016-06-30 do 2016-07-02.
 
 ## Day I
 
@@ -14,11 +10,11 @@ ze względu, że nie wszystkie mnie interesowały w takim samym stopniu.
 
 Organizator przedstawił jakie problematyczne i stresujące jest organizowanie
 takiego wydarzenia jakim jest konferencja. Podzielił się z nami informacją,
-że stan konta bankowego na dzień `1 czerwca` to -18k euro.
+że stan konta bankowego na dzień _1 czerwca_ to `-18k euro`.
 
 Z różnych źródeł wiem, że Zaiste reklamował projekt: http://eventil.com,
 ale nie użył nazwy tego projektu. Zastanawiające: Dlaczego nie podał adresu?
-Wstydził się? Nie miał czym się pochwalić? Nie chciał być nachalny?
+Nie miał czym się pochwalić? Nie chciał być nachalny?
 
 ### 2. "Introducing clojure.spec" Arne Brasseur
 
@@ -438,7 +434,11 @@ where processes dwell
 * :movie_camera: Talk — https://www.youtube.com/watch?v=96YwY7Lld0Q
 * :postbox: Kontakt — http://twitter.com/bradurani
 
+<details>
+
 Ecta.Repo, Schema, Changesets, Query
+
+</details>
 
 ### 6. "Datomic in production, 1 year in" Hans Hübner
 
