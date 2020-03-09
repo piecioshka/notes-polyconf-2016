@@ -32,7 +32,7 @@ Wstydził się? Nie miał czym się pochwalić? Nie chciał być nachalny?
 ### 4. "Elm for JavaScript Developers" Jack Franklin
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=tOkOmWgDLOM
-* :page_with_curl: Slajdy - https://speakerdeck.com/jackfranklin/polyconf-elm-for-js-developers
+* :page_with_curl: Slajdy — https://speakerdeck.com/jackfranklin/polyconf-elm-for-js-developers
 
 <details>
 
@@ -72,7 +72,7 @@ Commands and (Signals =>) Subscriptions
 ### 6. "Dynamics of change: why reactivity matters" Andre Staltz
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=v68ppDlvHqs
-* :page_with_curl: Slajdy - https://speakerdeck.com/staltz/dynamics-of-change-why-reactivity-matters
+* :page_with_curl: Slajdy — https://speakerdeck.com/staltz/dynamics-of-change-why-reactivity-matters
 * :postbox: Kontakt — https://github.com/staltz
 * :postbox: Kontakt — https://twitter.com/andrestaltz
 
@@ -141,9 +141,9 @@ jestem w stanie powiedzieć, że była to najlepsza prelekcja dla mnie z kilku p
 ### 2. "Pick Your Battles" Zef Hemel
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=J_44tCwpChY
-* :page_with_curl: Slajdy - https://speakerdeck.com/zef/pick-your-battles
-* Kontakt - http://zef.me
-* Kontakt - http://twitter.com/zef
+* :page_with_curl: Slajdy — https://speakerdeck.com/zef/pick-your-battles
+* :postbox: Kontakt — http://zef.me
+* :postbox: Kontakt — http://twitter.com/zef
 
 <details>
 
@@ -163,7 +163,7 @@ Wnioski:
 ### 4. "Scaling React Applications" Max Stoiber
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=iNNiqWZtUHg
-* Kontakt - https://twitter.com/mxstbr
+* :postbox: Kontakt — https://twitter.com/mxstbr
 
 <details>
 
@@ -204,8 +204,8 @@ Wnioski:
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=hME4c8y_B-s
 * :movie_camera: Talk — https://www.youtube.com/watch?v=orLYv91T5io
-* :page_with_curl: Slajdy - http://naugtur.pl/pres3/node2prod/
-* Kontakt - http://twitter.com/naugtur
+* :page_with_curl: Slajdy — http://naugtur.pl/pres3/node2prod/
+* :postbox: Kontakt — http://twitter.com/naugtur
 
 <details>
 
@@ -293,13 +293,13 @@ blocked(function (ms) {
 ### 6. "OOP -> FP" Julia Gao
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=R_TQtthAGQc
-* :page_with_curl: Slajdy - http://slides.com/ryoia/oop-to-fp
+* :page_with_curl: Slajdy — http://slides.com/ryoia/oop-to-fp
 
 ### 7. "Owning Ownership: How Thinking About Ownership Prevents Bugs" Sean Griffin
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=PBV6j2BhEGE
-* Kontakt - http://twitter.com/sgrif
-* Kontakt - http://github.com/sgrif
+* :postbox: Kontakt — http://twitter.com/sgrif
+* :postbox: Kontakt — http://github.com/sgrif
 
 <details>
 
@@ -323,7 +323,7 @@ blocked(function (ms) {
 ### 9. "Nim async voodoo" Andreas Rumpf
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=hwArqelfBBY
-* :page_with_curl: Slajdy - https://github.com/araq/polyconf2016
+* :page_with_curl: Slajdy — https://github.com/araq/polyconf2016
 
 <details>
 
@@ -379,7 +379,7 @@ która chce skorzystać z danego zasobu.
 ### 1. "Erlang in The Land of Lisp" Jan Stępień
 
 * :movie_camera: Talk — https://www.youtube.com/watch?v=qVMKIKJrUd8
-* Kontakt - http://twitter.com/janstepien
+* :postbox: Kontakt — http://twitter.com/janstepien
 
 <details>
 
