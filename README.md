@@ -22,14 +22,16 @@ Wstydził się? Nie miał czym się pochwalić? Nie chciał być nachalny?
 
 ### 2. "Introducing clojure.spec" Arne Brasseur
 
-* Slajdy: http://arnebrasseur.net/talks/2016-clojure-spec/
+* :camera: Talk — https://www.youtube.com/watch?v=CVO0M8CTV78
+* Slajdy — http://arnebrasseur.net/talks/2016-clojure-spec/
 
 ### 3. "Functional Thinking" Artur Czajka
 
-> Brak danych.
+* :camera: Talk — https://www.youtube.com/watch?v=Nx9pEQng8H8
 
 ### 4. "Elm for JavaScript Developers" Jack Franklin
 
+* :camera: Talk — https://www.youtube.com/watch?v=tOkOmWgDLOM
 * Slajdy - https://speakerdeck.com/jackfranklin/polyconf-elm-for-js-developers
 * Dodatki - https://github.com/jackfranklin/elm-for-js-developers-talk/tree/polyconf
 
@@ -64,10 +66,11 @@ Commands and (Signals =>) Subscriptions
 
 ### 5. "Lwan project: an experimental, scalable, high-performance HTTP server" Leandro Pereira
 
-> Brak danych.
+* :camera: Talk — https://www.youtube.com/watch?v=cttY9FdCzUE
 
 ### 6. "Dynamics of change: why reactivity matters" Andre Staltz
 
+* :camera: Talk — https://www.youtube.com/watch?v=v68ppDlvHqs
 * Prelegent — https://github.com/staltz
 * Prelegent — https://twitter.com/andrestaltz
 * Slajdy - https://speakerdeck.com/staltz/dynamics-of-change-why-reactivity-matters
@@ -92,9 +95,11 @@ jestem w stanie powiedzieć, że była to najlepsza prelekcja dla mnie z kilku p
 
 ### 7. "Becoming a Polyglot - APIs in 4 Languages" Kirsten Hunter
 
-> Brak danych.
+* :camera: Talk — https://www.youtube.com/watch?v=ZfqfLpV26yY
 
 ### 8. "Dynamic Linking in the Browser" Guy Bedford
+
+* :camera: Talk — https://www.youtube.com/watch?v=cRSBi1EAOCo
 
 <details>
 
@@ -118,6 +123,10 @@ jestem w stanie powiedzieć, że była to najlepsza prelekcja dla mnie z kilku p
 
 </details>
 
+### LIGHTNING TALKS :zap:
+
+* :camera: Talks — https://www.youtube.com/watch?v=de-EiEXo3tA
+
 ---
 ---
 ---
@@ -126,10 +135,11 @@ jestem w stanie powiedzieć, że była to najlepsza prelekcja dla mnie z kilku p
 
 ### 1. "Oden - A Functional Programming Language for the Go Ecosystem" Oskar Wickström
 
-> Brak danych.
+* :camera: Talk — https://www.youtube.com/watch?v=qRm_58RA9ns
 
 ### 2. "Pick Your Battles" Zef Hemel
 
+* :camera: Talk — https://www.youtube.com/watch?v=J_44tCwpChY
 * Strona domowa - http://zef.me
 * Twitter - http://twitter.com/zef
 * Slajdy - https://speakerdeck.com/zef/pick-your-battles
@@ -146,10 +156,11 @@ Wnioski:
 
 ### 3. "Back to Basics: Discussing Prototypes with the Terminator" Christoph Gockel
 
-> Brak danych.
+* :camera: Talk — https://www.youtube.com/watch?v=6rVfqhtWJ6g
 
 ### 4. "Scaling React Applications" Max Stoiber
 
+* :camera: Talk — https://www.youtube.com/watch?v=iNNiqWZtUHg
 * Twitter - https://twitter.com/mxstbr
 
 <details>
@@ -189,8 +200,10 @@ Wnioski:
 
 ### 5. "Getting your Node.js app production ready" Zbyszek Tenerowicz
 
+* :camera: Talk — https://www.youtube.com/watch?v=hME4c8y_B-s
+* :camera: Talk — https://www.youtube.com/watch?v=orLYv91T5io
 * Slajdy - http://naugtur.pl/pres3/node2prod/
-* Twitter - http://twitter.com/naugtur
+* Prelegent - http://twitter.com/naugtur
 
 <details>
 
@@ -277,10 +290,12 @@ blocked(function (ms) {
 
 ### 6. "OOP -> FP" Julia Gao
 
+* :camera: Talk — https://www.youtube.com/watch?v=R_TQtthAGQc
 * Slajdy - http://slides.com/ryoia/oop-to-fp
 
 ### 7. "Owning Ownership: How Thinking About Ownership Prevents Bugs" Sean Griffin
 
+* :camera: Talk — https://www.youtube.com/watch?v=PBV6j2BhEGE
 * Twitter - http://twitter.com/sgrif
 * GitHub - http://github.com/sgrif
 * Lib: Diesel - http://diesel.rs
@@ -288,16 +303,19 @@ blocked(function (ms) {
 
 ---
 
-*LIGHTNING TALKS*
+### LIGHTNING TALKS :zap:
+
+* :camera: Talks — https://www.youtube.com/watch?v=AbqByKfar8o
 
 ---
 
 ### 8. "The Linguistic Relativity of Programming Languages" Jenna Zeigen
 
-> Brak danych.
+* :camera: Talk — https://www.youtube.com/watch?v=XV3vUZ9y8AU
 
 ### 9. "Nim async voodoo" Andreas Rumpf
 
+* :camera: Talk — https://www.youtube.com/watch?v=hwArqelfBBY
 * Slajdy - https://github.com/araq/polyconf2016
 
 <details>
@@ -311,6 +329,8 @@ blocked(function (ms) {
 </details>
 
 ### 10. "Why System Programming is for Everyone" Julia Evans
+
+* :camera: Talk — https://www.youtube.com/watch?v=HjASqh5z8ck
 
 <details>
 
@@ -326,6 +346,8 @@ Prelegentka pokazała mnóstwo interesujących programów:
 </details>
 
 ### 11. "The Seif Project" Douglas Crockford
+
+* :camera: Talk — https://www.youtube.com/watch?v=O9AwYiwIvXE
 
 <details>
 
@@ -349,6 +371,7 @@ która chce skorzystać z danego zasobu.
 
 ### 1. "Erlang in The Land of Lisp" Jan Stępień
 
+* :camera: Talk — https://www.youtube.com/watch?v=qVMKIKJrUd8
 * Twitter - http://twitter.com/janstepien
 
 <details>
@@ -369,6 +392,8 @@ where processes dwell
 
 ### 2. "Exploring The Universal Library" Szymon Kaliski
 
+* :camera: Talk — https://www.youtube.com/watch?v=qByrsLPxjHs
+
 <details>
 
 * http://thi.org - set of libs for closure and closure script
@@ -379,11 +404,18 @@ where processes dwell
 
 ### 3. "Language-agnostic static analysis with abstract ASTs" Marcin Wyszyński
 
+* :camera: Talk — https://www.youtube.com/watch?v=0YHXFY_NSfA
+
+<details>
+
 * http://twitter.com/codebeatapp
 * antlr - fantastic ast analyzer
 
+</details>
+
 ### 4. "My adventure with Elm" Yan Cui
 
+* :camera: Talk — https://www.youtube.com/watch?v=28jCDXfZCgE
 * Prelegent — http://twitter.com/theburningmonk
 
 <details>
@@ -396,12 +428,14 @@ where processes dwell
 
 ### 5. "Ecto vs. ActiveRecord: A Tale of Two ORMs" Brad Urani
 
+* :camera: Talk — https://www.youtube.com/watch?v=96YwY7Lld0Q
 * Prelegent — http://twitter.com/bradurani
 
 Ecta.Repo, Schema, Changesets, Query
 
 ### 6. "Datomic in production, 1 year in" Hans Hübner
 
+* :camera: Talk — https://www.youtube.com/watch?v=0y6QK813new
 * Prelegent — https://twitter.com/hanshuebner
 
 <details>
@@ -421,6 +455,7 @@ Ecta.Repo, Schema, Changesets, Query
 
 ### 7. "Kemal: Building Lightning Fast Web Applications with Simplicity" Serdar Dogruyol
 
+* :camera: Talk — https://www.youtube.com/watch?v=KJB-nAoRSr8
 * Prelegent — http://twitter.com/sdogruyol
 
 <details>
@@ -447,7 +482,9 @@ Ecta.Repo, Schema, Changesets, Query
 
 ---
 
-*LIGHTNING TALKS*
+### LIGHTNING TALKS :zap:
+
+<details>
 
 #### music
 
@@ -466,12 +503,15 @@ git push --force-with-lease
 
 * http://stevelosh.com/blog/2012/10/a-modern-space-cadet/
 
+</details>
+
 ---
 
 ### 8. "Experience report: Clojure on iOS with React Native" Jelle Akkerman
 
-* Prelegent — http://twitter.com/jellea
-* Prelegent — http://github.com/jellea
+* :camera: Talk — https://www.youtube.com/watch?v=UHRITqJGadU
+* Prelegentka — http://twitter.com/jellea
+* Prelegentka — http://github.com/jellea
 
 <details>
 
@@ -562,6 +602,7 @@ http://iamfy.co
 
 ### 9. "From Unikernels to Databases to UIs: Truly full-stack apps in OCaml" Sean Grove
 
+* :camera: Talk — https://www.youtube.com/watch?v=F2dPXk__B6M
 * Prelegent — http://twitter.com/sgrove
 * Prelegent — http://github.com/sgrove
 
@@ -613,6 +654,8 @@ http://iamfy.co
 
 ### 10. "A brief history of the ML family" Rachel Reese
 
+* :camera: Talk — https://www.youtube.com/watch?v=cbDjpi727aY
+
 <details>
 
 * OCalm created in 1996
@@ -625,6 +668,7 @@ http://iamfy.co
 
 ### 11. "Knit, Chisel, Hack: Building Programs in Guile Scheme" Andy Wingo
 
+* :camera: Talk — https://www.youtube.com/watch?v=TVO8WXFYDIA
 * Prelegent — https://twitter.com/andywingo
 
 <details>
